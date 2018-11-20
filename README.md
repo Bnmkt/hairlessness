@@ -40,3 +40,13 @@ Même fiche type que pour les chatons avec plus d'importance pour le texte libre
 #### De la chatterie
 
 ### 5) Le livre d'or
+
+## Plus d'info
+-   Pas de logos (il faut en faire un)
+-   Le client préfère recevoir un mail pour pouvoir recontacter car elle n'est pas tout le temps disponible
+-   Il arrive que certaines personne réserve un chaton d'une portée avant l'arrivée de celle-ci
+-  Faire un lien entre Facebook et le site (référencement)e
+-  Un chat coûte entre 900 et 1500€
+-  Possibilité de parler de la période de sevrage
+-  Identité graphique à créer (bien que le client souhaite avoir un site "classe")
+- Adresse de contact : jenniferderison AT gmail . com
